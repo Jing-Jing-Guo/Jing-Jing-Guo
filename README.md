@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🙌 Hi there, I am Jingjing Guo(郭晶晶)(Yeah, having the same name as the Chinese diver..), currently working as a research intern/research assistant at the Chinese University of Hong Kong. I am very fortunate to work with Prof Xiangyu Yue.
+- 👩🏻‍💻 I mainly focus on Human Computer Interaction (esp. Affective Computing) and Multimodal Machine Learning.
+- 💡 I designed my personal website on [https://jing-jing-guo.github.io](https://jing-jing-guo.github.io).
+- 📸 I also keen on photography, and you can find my portfolio [here](https://jing-jing-guo.github.io/Jingjing%20Guo's%20Portfolio.html).
+
+Very glad I was interesting enough to attract you here. Thanks for stopping by and please enjoy！
