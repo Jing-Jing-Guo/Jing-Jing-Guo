@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🙌 I am Jingjing Guo(郭晶晶)(Yeah.. it's the same name as the Chinese diver🥇), currently working as an algorithm engineer at [artificial intelligence lab of advanced innovation centre for future education, Beijing Normal University](http://bnu-ai.cn), also working online as a research intern/research assistant at the Chinese University of Hong Kong. I am very fortunate to work with [Prof Xiangyu Yue](http://xyue.io) and [Prof Sicheng Zhao](http://sites.google.com/view/schzhao).
+- 🙌 I am Jingjing Guo(郭晶晶)(Yeah.. it's the same name as the Chinese diver🥇), currently a PhD student at [University of Glasgow]([http://bnu-ai.cn](https://www.gla.ac.uk)), supervised by [Dr Marwa Mahmoud](https://www.gla.ac.uk/schools/computing/staff/marwamahmoud/), also working online as a research intern/research assistant at the Chinese University of Hong Kong. I am very fortunate to work with [Prof Xiangyu Yue](http://xyue.io) and [Prof Sicheng Zhao](http://sites.google.com/view/schzhao).
 - 👩🏻‍💻 I mainly focus on Human Computer Interaction (esp. Affective Computing) and Multimodal Machine Learning.
 - 💡 I designed my personal website on [https://jing-jing-guo.github.io](https://jing-jing-guo.github.io).
 - 📸 I also keen on photography, and you can find my portfolio [here](https://jing-jing-guo.github.io/Jingjing%20Guo's%20Portfolio.html).
